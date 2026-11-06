@@ -4,9 +4,6 @@ title: Gizlilik Politikası
 
 # e-Külliyat Gizlilik Politikası ve Kişisel Verilerin Korunması Aydınlatma Metni
 
-> **Taslak.** Bu metin hukuki onaydan geçmeden yayımlanmıştır. Köşeli parantez içindeki yerler
-> onaydan sonra tamamlanacaktır.
-
 Son güncelleme: 6 Kasım 2026
 
 ## 1. Veri sorumlusu
