@@ -58,9 +58,11 @@ programlarının organize edilmesi, öğrenci gelişiminin takibi ve okul-veli i
 
 ## 6. Hizmet sağlayıcılar ve yurt dışına aktarım
 
-Veriler, barındırma hizmeti veren Supabase Inc. sunucularında, Türkiye dışında saklanır. Bu,
-kişisel verilerin yurt dışına aktarılması anlamına gelir. Aktarımın dayanağı: [Hukuki onayla
-tamamlanacak].
+Okulumuz nezdinde kullanılan bilgi yönetim, veri tabanı ve yazılım altyapısı hizmetleri kapsamında
+işlenen kişisel verileriniz; bulut veri tabanı hizmet sağlayıcımız (Supabase Inc.) aracılığıyla
+Avrupa / İsviçre (eu-central-2 / Zürih) bölgesinde konumlu güvenli sunucularda barındırılmaktadır.
+
+Aktarımın dayanağı: [Hukuki onayla tamamlanacak].
 
 Kayıt sırasındaki doğrulama e-postası Google (Gmail) üzerinden gönderilir; bunun için yalnız alıcının
 e-posta adresi kullanılır.
