@@ -44,7 +44,9 @@ izleme (analitik) yoktur. Veriler satılmaz, reklam amacıyla paylaşılmaz.
 
 Veriler öğrencilerin eğitim takibinin yapılması, velilerin bilgilendirilmesi, ödül ve sıralamaların
 hesaplanması ve sistemin güvenliği için işlenir.
-Hukuki sebep: [Hukuki onayla tamamlanacak].
+Hukuki sebep: Eğitim hizmeti sözleşmesinin kurulması veya ifası (KVKK m. 5/2-c): Öğrenci kayıt ve
+kabul işlemlerinin tamamlanması, eğitim-öğretim faaliyetlerinin yürütülmesi, ders ve sınav
+programlarının organize edilmesi, öğrenci gelişiminin takibi ve okul-veli iletişiminin sürdürülmesi.
 
 ## 5. Verileri kimler görür?
 
