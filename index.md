@@ -62,8 +62,6 @@ Okulumuz nezdinde kullanılan bilgi yönetim, veri tabanı ve yazılım altyapı
 işlenen kişisel verileriniz; bulut veri tabanı hizmet sağlayıcımız (Supabase Inc.) aracılığıyla
 Avrupa / İsviçre (eu-central-2 / Zürih) bölgesinde konumlu güvenli sunucularda barındırılmaktadır.
 
-Aktarımın dayanağı: [Hukuki onayla tamamlanacak].
-
 Kayıt sırasındaki doğrulama e-postası Google (Gmail) üzerinden gönderilir; bunun için yalnız alıcının
 e-posta adresi kullanılır.
 
