@@ -70,7 +70,7 @@ erişmez.
 
 - Öğrenci kayıtları: öğrencinin kurumdan ayrılmasından (mezuniyet ya da nakil) sonra 2 yıl. Süre
   dolunca kayıtlar kurum tarafından silinir.
-- Kod denemesi kayıtları: [Hukuki onayla tamamlanacak].
+- Kod denemesi kayıtları (internet adresi, hesap, sonuç): 90 gün; süre dolunca kendiliğinden silinir.
 
 ## 8. Güvenlik
 

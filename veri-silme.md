@@ -33,6 +33,6 @@ Başvurular en geç 30 gün içinde yanıtlanır. Silme işlemini kurum yapar.
 - **Öğrenci verileri silinince:** öğrencinin adı, veli telefonu, puanları, hafızlık kayıtları, sınav
   notları ve değerlendirmeleri silinir.
 - **Saklanabilecekler:** Yasal yükümlülükler nedeniyle saklanması gereken kayıtlar, ilgili süre
-  boyunca saklanır.
+  boyunca saklanır. Öğrenci kodu deneme kayıtları 90 gün sonra kendiliğinden silinir.
 
 Ayrıntılar için [Gizlilik Politikası](./).
